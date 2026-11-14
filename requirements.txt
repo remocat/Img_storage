@@ -1,0 +1,2 @@
+# message_snapshots (forwarded messages) needs discord.py 2.5+
+discord.py>=2.5,<3.0
